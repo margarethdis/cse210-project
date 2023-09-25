@@ -1,5 +1,7 @@
 # cse210-ww-student-template
-"MARGARETH"  for students in the worldwide content version of CSE 210.
+"MARGARETH" 
+
+ for students in the worldwide content version of CSE 210.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
